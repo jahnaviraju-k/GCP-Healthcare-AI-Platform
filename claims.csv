@@ -1,0 +1,6 @@
+claim_id,patient_id,amount,billing_code,hospital_id,is_fraud
+C001,P001,1200,99213,H01,0
+C002,P002,5500,99214,H02,1
+C003,P003,700,99212,H01,0
+C004,P004,30000,99215,H03,1
+C005,P005,1500,99213,H01,0

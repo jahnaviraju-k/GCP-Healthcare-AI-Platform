@@ -1,0 +1,6 @@
+patient_id,age,gender,length_of_stay,diabetes,hypertension,readmitted
+P001,65,F,7,1,0,1
+P002,45,M,3,0,1,0
+P003,72,F,10,1,1,1
+P004,50,M,4,0,0,0
+P005,80,F,12,1,1,1
