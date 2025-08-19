@@ -26,5 +26,3 @@ pip install -r deploy/requirements.txt
 python api/predict_api.py
 ```
 
-## 📜 License
-MIT License
